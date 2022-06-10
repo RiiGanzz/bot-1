@@ -45,24 +45,24 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sgh = 'https://github.com/RiiGanzz'
+global.sgc = 'https://chat.whatsapp.com/CKF1y1F0M2J1hRJBSsv8bC'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '081247822525'
+global.povo = '081367417823'
+global.pgopay = '081367417823'
+global.ppulsa = '081247822525'
+global.ppulsa2 = '081247822525'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6285731134969
+global.nomorown = '6285731134969'
+global.namebot = 'Alu BOT'
+global.nameown = 'Alu - MD'
 
 
 /*============== STAFF ==============*/
